@@ -19,3 +19,10 @@ RAS Algorithm based on;
 * Lui, Lenzen & Murray (2012) doi: [10.1111/j.1477-8947.2012.01439.x](https://doi.org/10.1111/j.1477-8947.2012.01439.x)
 
 * Wiedmann et al. (2011) doi: [10.1021/es2007287](https://doi.org/10.1021/es2007287)
+
+## Open Access and transparency
+
+This code is provided open access in accordance with NERC [Guidance on Preservation of NERC Model Code and Model Output](https://nerc.ukri.org/research/sites/data/policy/modelcode-guidance/)
+
+
+
