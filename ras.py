@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jan  9 14:44:26 2018
-
 @author: emst
+RAS Algorithm based on Lui, Lenzen & Murray (2012) and Wiedmann et al. (2011)
+doi:10.1111/j.1477-8947.2012.01439.x
+doi:10.1021/es2007287
 """
 
 def ras(seed, goal):
